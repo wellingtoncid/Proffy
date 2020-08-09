@@ -23,7 +23,7 @@
  
 </p>
 <h1 align="center">
-    <img alt="Proffy" title="#Proffy" src="./assets/desing.png" />
+    <img alt="Proffy" title="#Proffy" src="./assets/design.png" />
 </h1>
 
 <h4 align="center"> 
@@ -98,18 +98,18 @@ O layout da aplicação está disponível no Figma:
 
   <img alt="Proffy" title="#Proffy" src="./assets/mobile-home.png" width="200px">
 
-  <img alt="Proffy" title="#Proffy" src="./assets/mobile-onbording.svg" width="200px">
+  <img alt="Proffy" title="#Proffy" src="./assets/mobile-onboarding.png" width="200px">
 
-  <img alt="Proffy" title="#Proffy" src="./assets/mobile-favorites.svg" width="200px">
+  <img alt="Proffy" title="#Proffy" src="./assets/mobile-favorites.png" width="200px">
 
 </p>
 
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Proffy" title="#Proffy" src="./assets/web-landing.svg" width="400px">
+  <img alt="Proffy" title="#Proffy" src="./assets/web-landing.png" width="400px">
 
-  <img alt="Proffy" title="#Proffy" src="./assets/web-list.svg" width="400px">
+  <img alt="Proffy" title="#Proffy" src="./assets/web-list.png" width="400px">
 </p>
 
 ---
