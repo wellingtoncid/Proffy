@@ -283,7 +283,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
  <sub><b>Wellington Cid</b></sub></a> <a href="https://linkedin.com/in/wellingtoncid/" title="Rocketseat">🚀</a>
  <br />
 
-[![Twitter Badge](https://img.shields.io/badge/-@wellingtoncid-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/wellingtoncid)](https://twitter.com/wellingtoncid) [![Linkedin Badge](https://img.shields.io/badge/-Cid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellingtoncid/)](https://www.linkedin.com/in/wellingtoncid/) 
+[![Twitter Badge](https://img.shields.io/badge/-@wellingtoncid-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/wellingtoncid)](https://twitter.com/wellingtoncid) [![Linkedin Badge](https://img.shields.io/badge/-WellingtonCid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellingtoncid/)](https://www.linkedin.com/in/wellingtoncid/) 
 [![Gmail Badge](https://img.shields.io/badge/-cid.wellington@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cid.wellington@gmail.com)](mailto:cid.wellington@gmail.com)
 
 ---
