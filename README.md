@@ -1,15 +1,15 @@
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/wellingtoncid/README?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/wellingtoncid/Proffy?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/wellingtoncid/README">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/wellingtoncid/Proffy">
 
   <a href="https://www.twitter.com/wellingtoncid/">
     <img alt="Siga no Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fwellingtoncid%2FProffy">
   </a>
   
   <a href="https://github.com/wellingtoncid/README/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/wellingtoncid/README-proffy">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/wellingtoncid/Proffy">
   </a>
     
    <img alt="License" src="https://img.shields.io/github/license/wellingtoncid/Proffy">
@@ -19,12 +19,11 @@
 
   <a href="https://linkedin.com/in/wellingtoncid">
     <img alt="Feito por Wellington Cid" src="https://img.shields.io/badge/feito%20por-Wellington_Cid-%237519C1">
-  </a>
-    
+  </a>    
  
 </p>
 <h1 align="center">
-    <img alt="Proffy" title="#Proffy" src="./assets/banner.png" />
+    <img alt="Proffy" title="#Proffy" src="./assets/desing.png" />
 </h1>
 
 <h4 align="center"> 
@@ -95,17 +94,22 @@ O layout da aplicação está disponível no Figma:
 ### Mobile
 
 <p align="center">
-  <img alt="Proffy" title="#Proffy" src="./assets/home-mobile.png" width="200px">
+  <img alt="Proffy" title="#Proffy" src="./assets/mobile-splash.png" width="200px">
 
-  <img alt="Proffy" title="#Proffy" src="./assets/detalhes-mobile.svg" width="200px">
+  <img alt="Proffy" title="#Proffy" src="./assets/mobile-home.png" width="200px">
+
+  <img alt="Proffy" title="#Proffy" src="./assets/mobile-onbording.svg" width="200px">
+
+  <img alt="Proffy" title="#Proffy" src="./assets/mobile-favorites.svg" width="200px">
+
 </p>
 
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Proffy" title="#Proffy" src="./assets/web.svg" width="400px">
+  <img alt="Proffy" title="#Proffy" src="./assets/web-landing.svg" width="400px">
 
-  <img alt="Proffy" title="#Proffy" src="./assets/sucesso-web.svg" width="400px">
+  <img alt="Proffy" title="#Proffy" src="./assets/web-list.svg" width="400px">
 </p>
 
 ---
