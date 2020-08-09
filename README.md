@@ -1,15 +1,15 @@
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/wellingtoncid/README?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/wellingtoncid/Proffy?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/wellingtoncid/README">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/wellingtoncid/Proffy">
 
   <a href="https://www.twitter.com/wellingtoncid/">
     <img alt="Siga no Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fwellingtoncid%2FProffy">
   </a>
   
   <a href="https://github.com/wellingtoncid/README/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/wellingtoncid/README-proffy">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/wellingtoncid/Proffy">
   </a>
     
    <img alt="License" src="https://img.shields.io/github/license/wellingtoncid/Proffy">
